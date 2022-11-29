@@ -41,8 +41,8 @@
 <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
   </div>
   </div>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gdbr5b7u48e2ha42rgtpa5jgm&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=gdbr5b7u48e2ha42rgtpa5jgm&redirect=true)    
+    
+    
 ------
 Credit: [zillastar](https://github.com/zillastar)
 
