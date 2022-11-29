@@ -1,24 +1,17 @@
 
   ## **Hey 👋, I'm mawani!**  
-  
-<a href="https://switcher.gg/user/mawani"><img src="https://img.shields.io/badge/Nintendo Switch-E60012?style=flat-square&logo=Nintendo Switch&logoColor=white"/>  <a href="https://steamcommunity.com/id/mawani/"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>  <a href="https://discords.com/bio/p/04685986-1068-b750-4572-2e6b0069e73b"><img src="https://img.shields.io/badge/mawani-5865F2?style=flat-square&logo=Discord&logoColor=white"/> 
+### Game Info
+<div align="left"><a href="https://switcher.gg/user/mawani"><img src="https://img.shields.io/badge/Nintendo Switch-E60012?style=flat-square&logo=Nintendo Switch&logoColor=white"/>  <a href="https://steamcommunity.com/id/mawani/"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>  <a href="https://discords.com/bio/p/04685986-1068-b750-4572-2e6b0069e73b"><img src="https://img.shields.io/badge/mawani-5865F2?style=flat-square&logo=Discord&logoColor=white"/> 
 
-  
-<a href="https://instagram.com/pptheatfinger" target="_blank">
+### Community Info
+<div align="left"><a href="https://instagram.com/pptheatfinger" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/parkmawani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
 
-
-
-### Heeeeeeeeeeeeeeeello  
-I'm Korean.  
-  
-  
-
+ 
 <br/>  
 
 
