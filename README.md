@@ -1,7 +1,7 @@
 
   ## **Hey 👋, I'm mawani!**  
   
-<img src="https://img.shields.io/badge/360063237143-E60012?style=flat-square&logo=Nintendo Switch&logoColor=white"/>  <a href="https://steamcommunity.com/id/mawani/"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>  <a href="https://discords.com/bio/p/04685986-1068-b750-4572-2e6b0069e73b"><img src="https://img.shields.io/badge/mawani-5865F2?style=flat-square&logo=Discord&logoColor=white"/> 
+<a href="https://switcher.gg/user/mawani"><img src="https://img.shields.io/badge/Nintendo Switch-E60012?style=flat-square&logo=Nintendo Switch&logoColor=white"/>  <a href="https://steamcommunity.com/id/mawani/"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>  <a href="https://discords.com/bio/p/04685986-1068-b750-4572-2e6b0069e73b"><img src="https://img.shields.io/badge/mawani-5865F2?style=flat-square&logo=Discord&logoColor=white"/> 
 
   
 <a href="https://instagram.com/pptheatfinger" target="_blank">
