@@ -1,48 +1,49 @@
-<p align = center ><img src="https://i.imgur.com/YdSmpsK.png"> </p>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<div>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parkmawani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parkmawani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h2> / about me /</h2>
-    
-- ⭐ I’m currently in **Yeungnam University College**
-- 👾 Bacheloar of Arts degree expected in **Cyber Security**
-<div align="left"><a href="https://steamcommunity.com/id/mawani/"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>  <a href="https://discords.com/bio/p/04685986-1068-b750-4572-2e6b0069e73b"><img src="https://img.shields.io/badge/mawani-5865F2?style=flat-square&logo=Discord&logoColor=white"/><div align="left"><a href="https://instagram.com/pptheatfinger" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/parkmawani" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-<h2> / current skills / </h2>
-  
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt = "python" />
-  
-  - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt = "html" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
-    
-  
-- <h4> frameworks & libraries </h4>
-  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
-  <img src = "https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black" alt = "tomcat" />
-  <img src = "https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white" alt = "maven" />
-  
-- <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white" alt = "blender" />
-  <img src = "https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white" alt = "autodesk" />
-  
-  </br></br>
-  
-<!-- <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-  </div>
-  </div> -->
-    
-    
-------
-Credit: [zillastar](https://github.com/zillastar)
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
