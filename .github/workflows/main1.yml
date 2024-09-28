@@ -29,10 +29,16 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_limit: 2
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 2
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198062092975
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_settings: {
+  "url": "https://skyline.github.com/${login}/${year}",
+  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
+  "wait": 1,
+  "hide": "button, footer, a"
+}
+
+          plugin_skyline_year: 2024
+          plugin_stars: yes
+          plugin_stars_limit: 4
