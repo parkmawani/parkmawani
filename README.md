@@ -1,4 +1,4 @@
-![Metrics]([https://raw.githubusercontent.com/parkmawani/parkmawani/cdcb79ae76bd5a6cc0ab508a7771675408c1c7a2/github-metrics.svg](https://github.com/parkmawani/parkmawani/blob/main/github-metrics.svg))
+![Metrics](https://github.com/parkmawani/parkmawani/blob/main/github-metrics.svg)
 <h1></h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/318031021847216129">
